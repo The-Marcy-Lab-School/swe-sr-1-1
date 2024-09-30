@@ -21,9 +21,10 @@ Once you are inside of your `draft` branch, answer the questions found in the `s
 
 To submit this assignment, do the following:
 1. Add, commit, and push your `draft` branch to your repository. 
-2. You made need to set an upstream branch using the command `git push --set-upstream origin draft`
-3. Create a pull request and tag your instructor as a **Reviewer**.
-4. Your instructor will provide feedback on GitHub and will either approve your branch to be merged or will request that you resubmit.
+2. You may need to set an upstream branch using the command `git push --set-upstream origin draft`
+3. Create a pull request. Make sure that you are making a pull request to merge the `draft` branch into the `main` branch and that these two branches are in your repository (don't make a pull request to merge across forks).
+4. Tag your instructor as a **Reviewer**.
+5. Your instructor will provide feedback on GitHub and will either approve your branch to be merged or will request that you resubmit.
 
 Please refer to the [Git Branching & PRs lesson](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/mod-0-command-line-interfaces-git-and-github/4-git-branching) in the Marcy Lab School Docs for guidance on creating branches and pull requests.
 
