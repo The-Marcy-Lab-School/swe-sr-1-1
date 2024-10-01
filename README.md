@@ -1,6 +1,6 @@
-# tc-sr-1-1
+# swe-sr-1-1
 
-This is a Technical Curriculum (TC) Short Response (SR) assignment! In this assignment, you will be tasked with doing a little bit of research and then explaining your findings **in your own words**. 
+This is a Software Engineer (SWE) Short Response (SR) assignment! In this assignment, you will be tasked with doing a little bit of research and then explaining your findings **in your own words**. 
 
 Your intended audience should be someone with some experience programming but who is still learning. As such, strive to be as clear and concise as possible. There is a fine balance between too much information and just enough. Examples and analogies can often help!
 
