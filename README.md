@@ -1,45 +1,73 @@
 # swe-sr-1-1
 
-This is a Software Engineer (SWE) Short Response (SR) assignment! In this assignment, you will be tasked with doing a little bit of research and then explaining your findings **in your own words**. 
+For guidance on setting up and submitting this assignment, refer to the Marcy lab School Docs How-To guide for [Working with Short Response and Coding Assignments](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/how-tos/working-with-assignments#what-is-a-swe-sr-assignment).
 
-Your intended audience should be someone with some experience programming but who is still learning. As such, strive to be as clear and concise as possible. There is a fine balance between too much information and just enough. Examples and analogies can often help!
+## Question 1
 
-## Assignment Setup
+Open the [Marcy Lab School Docs Style Guide](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/cheatsheets/style-guide) and read the section on Blocks, Comments, and White Spaces.
 
-Upon receiving this assignment, you should do the following setup steps:
-1. Clone down your repository using the provided GitHub classroom link. It should be unique to you.
-2. `cd` into your repository.
-3. Create and checkout a new branch called `draft`
+Then, share:
+1. one rule that you found interesting (include the example)
+2. one rule that you found confusing (include the example)
+3. and a question you have about the style guide
 
-    ```sh
-    git checkout -b draft
-    ```
+We've provided a stencil for you to write your response. Notice the use of the triple-backtick to create a JavaScript code block.
 
-Once you are inside of your `draft` branch, answer the questions found in the `short-responses` directory. Each question will be in a file called `qX.md` and you should add your answer under the `# Answer` heading using Markdown ([read about Markdown syntax here](https://www.markdownguide.org/basic-syntax/)).
+### Response 1
 
-## Submitting the Assignment
+Interesting Rule: ...
 
-To submit this assignment, do the following:
-1. Add, commit, and push your `draft` branch to your repository. 
-2. You may need to set an upstream branch using the command `git push --set-upstream origin draft`
-3. Create a pull request. Make sure that you are making a pull request to merge the `draft` branch into the `main` branch and that these two branches are in your repository (don't make a pull request to merge across forks).
-4. Tag your instructor as a **Reviewer**.
-5. Your instructor will provide feedback on GitHub and will either approve your branch to be merged or will request that you resubmit.
+```js
+// put the example here
+```
 
-Please refer to the [Git Branching & PRs lesson](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/mod-0-command-line-interfaces-git-and-github/4-git-branching) in the Marcy Lab School Docs for guidance on creating branches and pull requests.
+Confusing Rule: ...
 
-## Feedback
+```js
+// put the example here
+```
 
-To support you in your growth as a technical communicator, your instructor will provide feedback on the following areas:
+Question: ...
 
-* **Clarity**: The communication is precise, concise, and unambiguous. Technical jargon is explained, and terms are used consistently.
-* **Completeness**: The communication covers all necessary technical details, scenarios, and edge cases, providing sufficient examples or references.
-* **Structure and Organization**: For longer answers, answers are logically organized with clear sections, headings, and transitions between ideas. The structure enhances understanding.
-* **Use of Examples and Diagrams**: Uses well-chosen examples, diagrams, or code snippets (when appropriate) that significantly aid understanding and clarify complex concepts.
-* **Accuracy**: The content is technically correct and adheres to current best practices and standards.
-* **Conciseness**: The communication is efficient, avoiding unnecessary detail or excessive language, while still being comprehensive.
+## Question 2
 
-## AI
-You may use generative AI tools like ChatGPT to help structure and refine your responses and to check for spelling and grammar mistakes. However, the majority of the writing should be yours! As a rule, aim to have no more than about 25% of the content written by a generative AI assistant. For more details on our AI Policy, refer to the [Marcy Lab School Docs](https://marcylabschool.gitbook.io/marcy-lab-school-docs/guidelines-and-policies/ai-policy).
+Modules let us split up our code into separate files. What are benefits of doing this? Are there any downsides?
 
-If you have any questions, feel free to reach out to your instructors or your classmates. Happy learning!
+### Response 2
+
+
+## Question 3
+
+Why is it an industry practice to use automated tests like Jest tests when we can also test our code manually using `console.log` statements?
+
+### Response 3
+
+
+## Question 4
+
+Read this article on [semantic versioning](https://www.baeldung.com/cs/semantic-versioning)
+
+What is Semantic Versioning, and what are the 3 main parts? If our application is in version 1.6.4, and we're releasing a "minor" feature, what would our new version number be?
+
+### Response 4
+
+## Question 5
+
+Imagine you are teaching a brand new programmer a brief lesson about functions. Your lesson should have the following components:
+* An explanation of the concept with an analogy ("In JavaScript, a function is like a ...")
+* An example of the syntax for an arrow function using a JavaScript code block (triple back ticks)
+* An explanation of the syntax using the terms **arrow function**, **parameter**, **code block**, and **return statement**
+
+Below, we've provided an outline for your response but feel free to modify it as you see fit.
+
+### Response 5
+
+Explanation of the concept with an analogy
+
+Check out this example:
+
+```js
+// Add your example here
+```
+
+Explanation of the syntax.
