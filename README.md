@@ -35,6 +35,7 @@ Modules let us split up our code into separate files. What are benefits of doing
 
 ### Response 2
 
+Add your response here...
 
 ## Question 3
 
@@ -42,6 +43,7 @@ Why is it an industry practice to use automated tests like Jest tests when we ca
 
 ### Response 3
 
+Add your response here...
 
 ## Question 4
 
@@ -50,6 +52,8 @@ Read this article on [semantic versioning](https://www.baeldung.com/cs/semantic-
 What is Semantic Versioning, and what are the 3 main parts? If our application is in version 1.6.4, and we're releasing a "minor" feature, what would our new version number be?
 
 ### Response 4
+
+Add your response here...
 
 ## Question 5
 
