@@ -43,9 +43,7 @@ Add your response here...
 
 ## Question 3
 
-Explain the pros and cons of using `console.log()` statements to test our code.
-
-Then, explain the benefits of using automated tests like Jest tests to test our code.
+What are the limitations of testing our code using `console.log`? And why is it an industry best-practice to test our code using automated tests like those we create with Jest?
 
 ### Response 3
 
