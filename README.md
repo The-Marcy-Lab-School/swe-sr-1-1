@@ -43,7 +43,9 @@ Add your response here...
 
 ## Question 3
 
-Why is it an industry practice to use automated tests like Jest tests when we can also test our code manually using `console.log` statements?
+Explain the pros and cons of using `console.log()` statements to test our code.
+
+Then, explain the benefits of using automated tests like Jest tests to test our code.
 
 ### Response 3
 
