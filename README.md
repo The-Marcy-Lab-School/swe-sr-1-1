@@ -1,5 +1,7 @@
 # swe-sr-1-1
 
+Welcome to your first short response assignment! While coding is the primary skill required of a programmer, we believe that technical communication is what distinguishes good programmers from great programmers. So, treat these assignments seriously! Write your responses as if you were planning on publishing them in a blog for the world to see.
+
 For guidance on setting up and submitting this assignment, refer to the Marcy lab School Docs How-To guide for [Working with Short Response and Coding Assignments](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/how-tos/working-with-assignments#how-to-work-on-assignments).
 
 ## Question 1
@@ -31,7 +33,9 @@ Question: ...
 
 ## Question 2
 
-Modules let us split up our code into separate files. What are benefits of doing this? Are there any downsides?
+Modules let us split up our code into separate files. Explain one or more benefits of using modules as well as one or more downsides.
+
+In your response, do not simply list the benefits/downsides. Explain _how_ modules provide that benefit to us.
 
 ### Response 2
 
@@ -49,7 +53,10 @@ Add your response here...
 
 Read this article on [semantic versioning](https://www.baeldung.com/cs/semantic-versioning)
 
-What is Semantic Versioning, and what are the 3 main parts? If our application is in version 1.6.4, and we're releasing a "minor" feature, what would our new version number be?
+This question has two parts:
+
+1. What is Semantic Versioning? Explain the differences between "major", "minor", and "patch" updates.
+2. If our application is in version 1.6.4, and we're releasing a "minor" feature, what would our new version number be?
 
 ### Response 4
 
@@ -58,8 +65,9 @@ Add your response here...
 ## Question 5
 
 Imagine you are teaching a brand new programmer a brief lesson about functions. Your lesson should have the following components:
-* An explanation of the concept with an analogy ("In JavaScript, a function is like a ...")
-* An example of the syntax for an arrow function using a JavaScript code block (triple back ticks)
+* A technical definition ("According to MDN, a function is...").
+* An explanation of the concept with an analogy ("You can think of a function a ...")
+* An example of the syntax for an arrow function using a JavaScript code block (triple backticks)
 * An explanation of the syntax using the terms **arrow function**, **parameter**, **code block**, and **return statement**
 
 Below, we've provided an outline for your response but feel free to modify it as you see fit.
