@@ -9,8 +9,8 @@ For guidance on setting up and submitting this assignment, refer to the Marcy la
 Open the [Marcy Lab School Docs Style Guide](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/cheatsheets/style-guide) and read the section on Blocks, Comments, and White Spaces.
 
 Then, share:
-1. one rule that you found interesting (include the example)
-2. one rule that you found confusing (include the example)
+1. one rule that you found interesting (include both the text of the rule and a code example)
+2. one rule that you found confusing (include both the text of the rule and a code example)
 3. and a question you have about the style guide
 
 We've provided a stencil for you to write your response. Notice the use of the triple-backtick to create a JavaScript code block.
