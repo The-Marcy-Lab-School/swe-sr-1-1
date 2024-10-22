@@ -17,16 +17,16 @@ We've provided a stencil for you to write your response. Notice the use of the t
 
 ### Response 1
 
-Interesting Rule: ...
+Interesting Rule: A rule I found interesting was... [copy the rule here]
 
 ```js
-// put the example here
+// put the code example here
 ```
 
-Confusing Rule: ...
+Confusing Rule: A rule I found confusing was... [copy the rule here]
 
 ```js
-// put the example here
+// put the code example here
 ```
 
 Question: ...
