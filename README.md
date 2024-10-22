@@ -64,12 +64,12 @@ Add your response here...
 
 ## Question 5
 
-Imagine you are teaching a brand new programmer a brief lesson about functions. Your lesson should have the following components:
+Imagine you are teaching a brand new programmer a brief lesson about functions and function calls. Your lesson should have the following components:
 
 * A technical definition ("According to MDN, a function is...").
 * An explanation of the concept with an analogy ("You can think of a function a ...")
 * An example of the syntax for an arrow function using a JavaScript code block (triple backticks)
-* An explanation of the syntax using the terms **arrow function**, **parameter**, **code block**, and **return statement**
+* An explanation of the syntax using the terms **arrow function**, **parameter**, **code block**, **return statement**, and **call/invoke**.
 
 Below, we've provided an outline for your response but feel free to modify it as you see fit.
 
