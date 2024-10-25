@@ -4,7 +4,7 @@ Welcome to your first short response assignment! While coding is the primary ski
 
 For guidance on setting up and submitting this assignment, refer to the Marcy lab School Docs How-To guide for [Working with Short Response and Coding Assignments](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/how-tos/working-with-assignments#how-to-work-on-assignments).
 
-## Question 1
+## Prompt 1
 
 Open the [Marcy Lab School Docs Style Guide](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/cheatsheets/style-guide) and read the section on Blocks, Comments, and White Spaces.
 
@@ -31,7 +31,7 @@ Confusing Rule: A rule I found confusing was... [copy the rule here]
 
 Question: ...
 
-## Question 2
+## Prompt 2
 
 Modules let us split up our code into separate files. Explain one or more benefits of using modules as well as one or more downsides.
 
@@ -41,15 +41,15 @@ In your response, do not simply list the benefits/downsides. Explain _how_ modul
 
 Add your response here...
 
-## Question 3
+## Prompt 3
 
-What are the limitations of testing our code using `console.log`? And why is it an industry best-practice to test our code using automated tests like those we create with Jest?
+We can test our code using `console.log()` statements. But we can also test our code using automated tests like Jest. Explain what the advantages of using Jest compared to using console.log are as well as why using automated tests like Jest is an industry best practice. Are there any benefits to using console.log?
 
 ### Response 3
 
 Add your response here...
 
-## Question 4
+## Prompt 4
 
 Read this article on [semantic versioning](https://www.baeldung.com/cs/semantic-versioning)
 
@@ -62,7 +62,7 @@ This question has two parts:
 
 Add your response here...
 
-## Question 5
+## Prompt 5
 
 Imagine you are teaching a brand new programmer a brief lesson about functions and function calls. Your lesson should have the following components:
 
